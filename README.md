@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # ApplySense
-
-> Formerly ApplyCraft.
 
 Chrome MV3 extension that fills in job application forms, can move through the pages, and **never submits the application**. It works fully offline with no API key.
 
@@ -88,4 +85,3 @@ tests/                   82 tests (fixtures use placeholder details): matching, 
 MIT
 =======
 # ApplySense
->>>>>>> 5ed8e85ed186ae1eca51481fba8dbe9d58af4ab5
