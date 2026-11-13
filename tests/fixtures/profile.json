@@ -1,0 +1,23 @@
+{
+  "fullName": "Alex Example",
+  "email": "alex@example.com",
+  "phone": "9000000000",
+  "phoneDeviceType": "Mobile",
+  "phoneCountryCode": "India (+91)",
+  "addressLine1": "12 Example Street",
+  "addressLine2": "Sample Nagar",
+  "city": "Mumbai",
+  "postalCode": "400001",
+  "country": "India",
+  "howHeard": "Other",
+  "noticePeriod": "45",
+  "workAuthorized": "Yes",
+  "relocate": "Yes",
+  "expectedCTC": "1000000 INR",
+  "meetsMinimumAge": "Yes",
+  "previouslyEmployed": "No",
+  "customAnswers": "principal accountant => No",
+  "linkedin": "https://www.linkedin.com/in/example/",
+  "currentCompany": "Cognizant",
+  "currentTitle": "Programmer Analyst Trainee"
+}

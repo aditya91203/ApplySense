@@ -1,0 +1,68 @@
+                                       Aditya Achuthan
+                 +91 9000000000 | Pune, India | alex@example.com | linkedin.com/in/example/
+
+Experience
+  Programmer Analyst Trainee                                                                          July 2025 – Present
+  Cognizant                                                                                                          On-site
+  • Engineered and deployed 15+ .NET API endpoints, delivering 100% alignment with client specifications and reducing
+
+    change requests by 20%.
+  • Integrated React-based frontends with backend APIs, enabling 30% faster feature rollout and improving user experience
+
+    metrics.
+  • Collaborated with cross-functional teams to convert 10+ business requirements into scalable technical solutions.
+
+  .NET and React Intern                                                                             Jan 2025 – June 2025
+  Cognizant                                                                                                        Remote
+  • Gained proficiency in .NET and React, accelerating development capabilities for full-stack projects.
+
+  • Applied component-based architecture and REST API integration to deliver a fully functional project ahead of schedule.
+
+  Virtual Research and Development Intern                                                          June 2023 – Feb. 2024
+  Samsung R&D                                                                                               Online, Chennai
+  • Collaborated with the 3D Modelling team, increasing 3D model generation speed by 45% through workflow optimization
+
+    and technical support.
+  • Engineered an automated DICOM processing library using Rust and Unity, reducing manual intervention and cutting
+
+    model generation time by 50%.
+  • Integrated the library into the production pipeline, enabling consistent, high-quality 3D model outputs with minimal
+
+    errors.
+Projects
+  Banking Mobile App | C#, .NET 8, React, JWT, REST APIs
+  • Built a full-stack Online Banking Portal with secure JWT authentication, role-based access, and REST APIs for accounts,
+
+    balances, transfers, and transaction history.
+  Cross-Platform DICOM Library for Android and iOS | DICOM, Android, iOS
+  • Created a cross-platform DICOM library supporting DICOM SR workflows, delivering source code, binaries, and
+
+    deployable packages for Android and iOS.
+  Cyber Sentinel (Barclays Hack-O-Hire) | Power BI, CNN, Random Forest
+  • Built a Power BI dashboard to analyze and predict cyberattacks on Barclays, combining CNN and random forest
+
+    algorithms to forecast future cyber threats.
+Skills
+  Languages & Frameworks: C#, .NET (Core/8), Java, Python, React, JavaScript, REST APIs, JWT Authentication
+  Systems Programming: Rust, Unity, C++
+  Data & Visualization: Power BI, SQL (MySQL)
+  Machine Learning: CNN, Random Forest, Scikit-learn
+  Cloud & Tools: Microsoft Azure, Git, DICOM Standards
+
+Education
+  SRM Institute of Science and Technology                                                                   Chennai, India
+  Bachelor of Technology in Computer Science and Engineering; GPA: 8.47/10                                2021 – 2025
+  • Relevant Coursework: Digital Image Processing, Operating Systems, Data Structures and Algorithms, Advanced
+
+    Programming using Python, Object Oriented Programming, Computer Organization and Architecture
+  B.K. Birla Centre for Education                                                                              Pune, India
+  Central Board of Secondary Education; Percentage: 93.80                                                      2019 – 2021
+Certifications
+• Microsoft Certified: Azure Fundamentals (AZ-900) – Microsoft (certificate link)
+• Claude Certified Architect – Foundations – Anthropic (certificate link)
+
+Achievements
+• Finalist: SRM Research Day 2023 – Computing Technology Department
+• Finalist: Smart India Hackathon 2023
+• Finalist: Barclays Hack-O-Hire
+

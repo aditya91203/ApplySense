@@ -1,0 +1,71 @@
+                                       Aditya Achuthan
+                 +91 9000000000 | Pune, India | alex@example.com | linkedin.com/in/example/
+
+Experience
+  Programmer Analyst Trainee                                                                         July 2025 – Present
+  Cognizant                                                                                                        On-site
+  • Engineered and deployed multiple .NET API endpoints, delivering alignment with client specifications and reducing
+
+    change requests.
+  • Integrated React-based frontends with backend APIs, enabling faster feature rollout and improving user experience
+
+    metrics.
+  • Collaborated with cross-functional teams to convert business requirements into scalable technical solutions.
+
+  .NET and React Intern                                                                            Jan 2025 – June 2025
+  Cognizant                                                                                                        On-site
+  • Gained proficiency in .NET and React, accelerating development capabilities for full-stack projects.
+  • Applied component-based architecture and REST API integration to deliver a fully functional project ahead of schedule.
+
+  Virtual Research and Development Intern                                                         June 2023 – Feb. 2024
+  Samsung R&D                                                                                          Online, Chennai
+  • Collaborated with the 3D Modelling team, increasing 3D model generation speed through workflow optimization and
+
+    technical support.
+  • Engineered an automated DICOM data processing pipeline using Rust and Unity, reducing manual intervention and
+
+    cutting processing time by half.
+Projects
+  Provider Network Performance Scorecard | Tableau, CMS Data
+  • Benchmarks US Medicare providers across quality, cost, and network adequacy using CMS open data, helping health
+
+    plans identify high-value providers and specialty coverage gaps through an interactive Tableau dashboard.
+  Chronic Disease Population Health Dashboard | Tableau, CDC/CMS Data
+  • A five-page Tableau dashboard profiling US county-level chronic disease burden, care access gaps, and Medicare
+
+    hospitalization risk using CDC PLACES, BRFSS, and CMS geographic data to surface high-need populations and
+    priority intervention zones.
+  Cyber Sentinel (Barclays Hack-O-Hire) | Power BI, CNN, Random Forest
+  • Created a Power BI dashboard to analyze and predict cyberattacks on Barclays, using multiple ML algorithms (CNN +
+
+    random forest) to predict and analyze future cyber threats.
+  Medicare Advantage Star Ratings Performance | Tableau, CMS Data
+  • Analyzes CMS star ratings across 850+ MA plans, benchmarking measure-level quality scores, tracking performance flags,
+
+    and estimating revenue impact of star rating improvements using enrollment data.
+  OpenFDA API Performance & Drug Safety Analytics Dashboard | Tableau, Python, OpenFDA API
+  • Developed a healthcare analytics dashboard in Tableau using Python-collected OpenFDA API data, tracking latency,
+
+    error rates, and drug safety patterns across patient demographics and geographies.
+Skills
+  Visualization: Tableau, Power BI
+  Languages & Libraries: Python, Java, .NET, SQL (MySQL), Pandas, NumPy, React
+  Machine Learning: Supervised/Unsupervised Learning, CNN, Random Forest, Scikit-learn
+  Cloud: Microsoft Azure (AZ-900 Certified), Cloud Fundamentals, Azure Data Services
+
+Education
+  SRM Institute of Science and Technology                                                                 Chennai, India
+  Bachelor of Technology in Computer Science and Engineering; GPA: 8.5/10                                 2021 – 2025
+  • Relevant Coursework: Digital Image Processing, Operating Systems, Data Structures and Algorithms, Advanced
+
+    Programming using Python, Object Oriented Programming, Computer Organization and Architecture
+  B.K. Birla Centre for Education                                                                            Pune, India
+  Central Board of Secondary Education; Percentage: 93.80                                                     2019 – 2021
+Certifications
+• Microsoft Certified: Azure Fundamentals (AZ-900) – Microsoft (certificate link)
+• Claude Certified Architect – Foundations – Anthropic (certificate link)
+
+Achievements
+• Finalist: Smart India Hackathon 2023
+• Finalist: Barclays Hack-O-Hire
+
